@@ -1,6 +1,6 @@
 # myapp
 ## salida 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/34822fa6-1eef-4081-a3e5-58bbe327decb)
 A new Flutter project.
 
 ## Getting Started
